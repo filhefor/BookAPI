@@ -1,0 +1,14 @@
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/bin/Debug/netcoreapp2.1/SigmaBookAPI.deps.json
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/bin/Debug/netcoreapp2.1/SigmaBookAPI.runtimeconfig.json
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/bin/Debug/netcoreapp2.1/SigmaBookAPI.runtimeconfig.dev.json
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/bin/Debug/netcoreapp2.1/SigmaBookAPI.dll
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/bin/Debug/netcoreapp2.1/SigmaBookAPI.pdb
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/obj/Debug/netcoreapp2.1/SigmaBookAPI.csprojAssemblyReference.cache
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/obj/Debug/netcoreapp2.1/SigmaBookAPI.csproj.CoreCompileInputs.cache
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/obj/Debug/netcoreapp2.1/SigmaBookAPI.RazorAssemblyInfo.cache
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/obj/Debug/netcoreapp2.1/SigmaBookAPI.RazorAssemblyInfo.cs
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/obj/Debug/netcoreapp2.1/SigmaBookAPI.AssemblyInfoInputs.cache
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/obj/Debug/netcoreapp2.1/SigmaBookAPI.AssemblyInfo.cs
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/obj/Debug/netcoreapp2.1/SigmaBookAPI.RazorTargetAssemblyInfo.cache
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/obj/Debug/netcoreapp2.1/SigmaBookAPI.dll
+/Users/filipheidfors/Documents/VisualStudioProjects/SigmaBookAPI/SigmaBookAPI/obj/Debug/netcoreapp2.1/SigmaBookAPI.pdb

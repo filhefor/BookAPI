@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{AE71397D-48F3-4953-9775-6289DA68AF8F}|Default">
+  <MonoDevelop.Ide.ItemProperties.SigmaBookAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SigmaBookAPI/wwwroot/site.js">
+    <Files>
+      <File FileName="SigmaBookAPI/Controllers/BooksController.cs" Line="53" Column="9" />
+      <File FileName="SigmaBookAPI/Models/Book.cs" Line="8" Column="100" />
+      <File FileName="SigmaBookAPI/Models/BookLibrary.cs" Line="8" Column="66" />
+      <File FileName="SigmaBookAPI/wwwroot/index.html" Line="84" Column="13" />
+      <File FileName="SigmaBookAPI/wwwroot/site.js" Line="3" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
