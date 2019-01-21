@@ -18,3 +18,5 @@ $ git clone https://github.com/filhefor/BookAPI.git
 1. Open SigmaBookAPI.sln in Visual Studio
 2. Run the application. 
 3. Your web browser will open and you can search for books. To see all books in the library just press the search button without any input in the search field.
+
+<img width="1212" alt="skarmavbild 2019-01-21 kl 20 18 43" src="https://user-images.githubusercontent.com/4848953/51494995-087cd780-1dbb-11e9-9454-1141c98f5558.png">
